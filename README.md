@@ -26,7 +26,6 @@ This project showcases server-side rendering with **EJS**, a responsive frontend
 
 ---
 
-## 🛠️ Installation & Setup
 
 1. **Clone the repository**
 ```bash
