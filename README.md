@@ -26,33 +26,6 @@ This project showcases server-side rendering with **EJS**, a responsive frontend
 
 ---
 
-## 📁 Folder Structure
-
-wanderlust/
-│
-├── models/ # Mongoose schema for villa listings
-│ └── Villa.js
-│
-├── routes/ # Express route definitions
-│ └── villas.js
-│
-├── views/ # EJS templates for rendering pages
-│ ├── listings/ # Index, New, Show, Edit views
-│ └── partials/ # Navbar, Footer, and Head includes
-│
-├── public/ # Static assets
-│ ├── css/
-│ │ └── styles.css # Custom styles
-│ ├── js/ # Optional JavaScript files
-│ └── images/ # Placeholder or sample villa images
-│
-├── app.js # Main server entry file
-├── package.json # Project metadata and dependencies
-└── .env # Environment variables (Mongo URI, PORT)
-
-
----
-
 ## 🛠️ Installation & Setup
 
 1. **Clone the repository**
